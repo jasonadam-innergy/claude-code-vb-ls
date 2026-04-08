@@ -1,7 +1,7 @@
 {
-  "visual-basic": {
-    "command": "vb-ls",
-    "args": ["--solution", "Microvellum2020 Trunk.sln"],
+  "lspServers": {
+      "command": "python",
+      "args": ["C:/Users/Jason.a/.claude/scripts/vb-ls-proxy.py", "--solution", "Microvellum2020 Trunk.sln"],
     "extensionToLanguage": {
       ".vb": "visual-basic"
     }
