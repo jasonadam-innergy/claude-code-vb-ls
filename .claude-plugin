@@ -1,0 +1,27 @@
+{
+    "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+    "name": "claude-code-vb-lsp",
+    "metadata": {
+        "description": "Visual Basic LSP plugin for Claude Code",
+        "version": "1.0.0",
+        "license": "MIT",
+        "repository": "https://github.com/jasonadam-innergy/claude-code-vb-ls",
+        "homepage": "https://github.com/jasonadam-innergy/claude-code-vb-ls"
+    },
+    "owner": {
+        "name": "Jason Adam"
+    },
+    "plugins": [
+        {
+            "name": "visual-basic-language-server",
+            "version": "1.0.0",
+            "source": "./visual-basic-language-server",
+            "description": "Visual Basic language server",
+            "category": "development",
+            "tags": [ "vb", "lsp"],
+            "author": {
+                "name": "Jason Adam"
+            }
+        }
+    ]
+}

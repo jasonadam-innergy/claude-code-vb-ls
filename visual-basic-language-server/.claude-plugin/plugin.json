@@ -1,0 +1,11 @@
+{
+  "name": "vb-ls",
+  "description": "Visual Basic language server",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jason Adam"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/jasonadam-innergy/claude-code-vb-ls",
+  "homepage": "https://github.com/jasonadam-innergy/claude-code-vb-ls"
+}

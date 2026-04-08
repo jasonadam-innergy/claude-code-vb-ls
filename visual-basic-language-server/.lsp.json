@@ -1,0 +1,9 @@
+{
+  "visual-basic": {
+    "command": "vb-ls",
+    "args": ["-lsp"],
+    "extensionToLanguage": {
+      ".vb": "visual-basic"
+    }
+  }
+}
