@@ -1,7 +1,7 @@
 {
   "visual-basic": {
     "command": "vb-ls",
-    "args": ["-lsp"],
+    "args": ["--solution \"Microvellum2020 Trunk.sln\""],
     "extensionToLanguage": {
       ".vb": "visual-basic"
     }
