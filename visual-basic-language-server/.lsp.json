@@ -1,7 +1,7 @@
 {
   "lspServers": {
       "command": "python",
-      "args": ["${CLAUDE_PLUGIN_ROOT}/scripts/vb-ls-proxy.py", "--solution", "_LSP.Microvellum.sln"],
+      "args": ["${CLAUDE_PLUGIN_ROOT}/scripts/vb-ls-proxy.py", "--solution", "YOUR_LSP_SLN"],
     "extensionToLanguage": {
       ".vb": "visual-basic"
     }
