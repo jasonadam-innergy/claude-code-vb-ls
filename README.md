@@ -27,4 +27,5 @@ You will likely need a `YourSolution.sln`, `MinimumRecommendedRules.ruleset`, an
 # Requirements
 
 Python 3
+
 .NET 9 (.NET 10 Recommended)
