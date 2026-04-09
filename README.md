@@ -18,3 +18,8 @@ Update your `appsettings.json` located in the `~/.claude/plugins/cache/claude-co
 Reload the plugins with `/reload-plugins`
 
 Test the Language Server by telling Claude to `Use the language server to find how many times X function in Y.vb is called`
+
+# Important Notes
+You will need to configure your own solution file so that the language server knows what files to build with.
+
+You will likely need a `YourSolution.sln`, `MinimumRecommendedRules.ruleset`, and `Directory.Build.targets`.
