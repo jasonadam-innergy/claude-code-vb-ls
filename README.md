@@ -7,6 +7,8 @@ This plugin relies on a [forked version](https://github.com/jasonadam-innergy/vi
 Make sure to update the appsetting.json within the scripts folder to point to your correct directories.
 
 # Installation
+First you will need to install the forked language server and build it.
+
 Run Claude Code and navigate to the plugins page with `/plugin` or through the GUI
 
 Add the marketplace `jasonadam-innergy/claude-code-vb-ls`
