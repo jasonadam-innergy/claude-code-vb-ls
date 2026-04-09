@@ -1,8 +1,8 @@
 {
     "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-    "name": "claude-code-vb-lsp",
+    "name": "claude-code-vb-ls",
     "metadata": {
-        "description": "Visual Basic LSP plugin for Claude Code",
+        "description": "Visual Basic Language Server plugin for Claude Code",
         "version": "1.0.0",
         "license": "MIT",
         "repository": "https://github.com/jasonadam-innergy/claude-code-vb-ls",
