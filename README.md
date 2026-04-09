@@ -23,3 +23,8 @@ Test the Language Server by telling Claude to `Use the language server to find h
 You will need to configure your own solution file so that the language server knows what files to build with.
 
 You will likely need a `YourSolution.sln`, `MinimumRecommendedRules.ruleset`, and `Directory.Build.targets`.
+
+# Requirements
+
+Python 3
+.NET 9 (.NET 10 Recommended)
