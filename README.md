@@ -1,6 +1,8 @@
 # Description
-This is a simple Visual Basic Language Server intended for use with Claude Code.
+This is a simple Visual Basic Language Server Plugin intended for use with Claude Code.
 This plugin relies on a [forked version](https://github.com/jasonadam-innergy/visualbasic-language-server) of [visualbasic-language-server](https://github.com/CoolCoderSuper/visualbasic-language-server) by CoolCoderSuper.
+
+The code within this repo is a proxy relay for Claude so that it can communicate with the Language Server.
 
 [The forked language server can be found here.](https://github.com/jasonadam-innergy/visualbasic-language-server)
 
